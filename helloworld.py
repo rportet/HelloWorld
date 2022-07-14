@@ -5,5 +5,3 @@ print(text)
 
 # Hello world en direct
 print("Bonjour tout le monde")
-
-#Penser à améliorer ce code
